@@ -14,18 +14,27 @@
         font-size: 60px;
 font-style: normal;
 margin-left: 20px;
-}.flaticon-dumbbell7:before {
+}.flaticon-2442:before {
 	content: "\e000";
 }
-.flaticon-heart288:before {
+.flaticon-dumbbell7:before {
 	content: "\e001";
 }
-.flaticon-man271:before {
+.flaticon-heart258:before {
 	content: "\e002";
 }
-.flaticon-runer:before {
+.flaticon-heart288:before {
 	content: "\e003";
 }
-.flaticon-weightlifting4:before {
+.flaticon-heart36:before {
 	content: "\e004";
+}
+.flaticon-man271:before {
+	content: "\e005";
+}
+.flaticon-runer:before {
+	content: "\e006";
+}
+.flaticon-weightlifting4:before {
+	content: "\e007";
 }
